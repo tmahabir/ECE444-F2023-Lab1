@@ -12,3 +12,11 @@ Branched from main of Lab1 repo and then cleaned up README
 # Activity 3
 
 ![Activity 3 Title Change](Assets/activity3_lab3title.png)
+
+# Activity 4
+
+![Activity 4 Run Docker](Assets/activity4_run_docker.png)
+
+![Activity 4 Docker Container](Assets/activity4_show_docker_container.png)
+
+![Activity 4 Local Host](Assets/activity4_local_host.png)
